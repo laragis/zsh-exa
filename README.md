@@ -6,7 +6,7 @@ Using the [:zap: Zap](https://www.zapzsh.com/) minimal zsh plugin manager, add t
 
 ```sh
 # Install plugin
-plug "zap-zsh/exa"
+plug "laragis/zsh-eza"
 ```
 
 ## ⚠️ Special Attention
@@ -17,7 +17,7 @@ Simply put it **after** supercharge declaration in your `.zshrc` like this:
 # ...
 
 plug "zap-zsh/supercharge"
-plug "zap-zsh/exa"
+plug "zap-zsh/eza"
 
 # ...
 ```
