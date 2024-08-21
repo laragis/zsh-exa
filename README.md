@@ -2,7 +2,7 @@
 Override `ls` and `tree` commands to use [eza](https://github.com/eza-community/eza) instead
 
 ## Install
-Using the [:zap: Zap](https://www.zapzsh.org/) minimal zsh plugin manager, add the following to your `.zshrc`
+Using the [:zap: Zap](https://www.zapzsh.com/) minimal zsh plugin manager, add the following to your `.zshrc`
 
 ```sh
 # Install plugin
